@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RabbitMqClassicToQueueMigrator": {
+      "commandName": "Project",
+      "commandLineArgs": "-v dev -h http://localhost:15672/ -u guest -p guest"
+    }
+  }
+}
